@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dzz
 zz
 q:
@@ -11,3 +12,47 @@ QQ
 zz
 
 tdj
+=======
+dsdsd
+
+sdSSSdsdsd
+
+sd
+q.
+SSS
+
+
+q;
+q:
+:q
+
+q;
+:
+:Q
+
+
+q:
+
+
+SDS
+
+
+
+QQQZZ
+ZZ
+:Q;Q;Q;:Q
+:Q;
+
+
+
+
+:Q
+q:
+
+
+ASqq
+QQ
+qQ
+
+etx
+>>>>>>> new-branch
